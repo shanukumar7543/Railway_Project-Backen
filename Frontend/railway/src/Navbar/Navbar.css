@@ -1,0 +1,18 @@
+.navs{
+    background-color:  rgb(20, 34, 42);
+    height: 80px;
+    width: 100%;
+    color: white;
+    display: flex;
+    border-radius: 10px;
+}
+
+.welcome{
+    margin-left: 1090px;
+    padding-top: 25px;
+}
+
+.logo{
+    margin-left: 65px;
+    padding-top: 20px;
+}

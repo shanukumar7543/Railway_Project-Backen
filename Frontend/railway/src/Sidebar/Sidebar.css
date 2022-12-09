@@ -1,0 +1,26 @@
+.sidebar{
+    height: 620px;
+    width: 210px;
+    background: rgb(2, 12, 12);
+background: linear-gradient(0deg, rgb(3, 73, 74) 0%, rgb(11, 9, 6) 100%);
+    color: white;
+    padding-top: 25px;
+    padding-right: 50px;
+    /* border-radius: 10px; */
+    text-decoration: none;
+    
+}
+.list{
+    padding-bottom: 20px;
+    margin-top: 15px;
+    width: 100px;
+    text-decoration: none;
+
+}
+.logout{
+    padding-top: 100px;
+}
+.list:hover{
+    color: aqua;
+    
+}
